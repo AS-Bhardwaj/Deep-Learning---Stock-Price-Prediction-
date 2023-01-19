@@ -7,7 +7,3 @@ Objective:
 Use LSTM approach to predict stock market indices on the dataset prices.csv.
 
 Note: Prices dataset are fetched from Yahoo Finance, fundamentals are from Nasdaq Financials, extended by some fields from EDGAR SEC databases.
-
-Access: Click on the Labs tab on the left side panel of the LMS. Copy or note the username and
-password that are generated. Click on the Launch Lab button. On the page that appears, enter
-the username and password in the respective fields, and click Login.
